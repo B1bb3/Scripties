@@ -25,7 +25,7 @@ our_meanings = {
     "preposition": [],
     "conjunction": [],
     "interjection": [],
-}
+} # Hey
 
 def check_clipboard_continuosly():
     global last_text_selected, selected_text, our_meanings, meanings_in_total, keys, meaning_index, current_word_class
