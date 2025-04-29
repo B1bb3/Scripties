@@ -14,7 +14,4 @@ time.sleep(600)
 
 # Reddit stories automatically
 # Fake News Detector
-# Twitter 
-
-
-# SAJDSAODHPWEBFE@proton.me
+# Turret
