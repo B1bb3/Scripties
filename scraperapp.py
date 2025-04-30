@@ -5,9 +5,11 @@ scraper = Scraper()
 
 scraper.OpenPage('https://x.com/')
 
-scraper.Click('/html/body/div/div/div/div[1]/div/div/div/div/div/div[2]/button[1]/div')
+
+scraper.GetOldCookies()
 
 time.sleep(600)
+
 
 
 
@@ -15,3 +17,5 @@ time.sleep(600)
 # Reddit stories automatically
 # Fake News Detector
 # Turret
+
+# sfdno2433419123g!!!!A
